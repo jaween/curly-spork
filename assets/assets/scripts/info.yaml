@@ -1,0 +1,18 @@
+locations:
+  - Little Oakdale:
+      image: backgrounds/little_oakdale.png
+  - Town Hall:
+      image: backgrounds/town_hall.png
+characters: 
+  - Narrator:
+      image: ~
+  - Girian:
+      image: characters/girian.png
+  - Zherrain:
+      image: characters/zherrain.png
+  - Narora:
+      image: characters/narora.png
+  - Unknown:
+      image: ~
+  - Rennald:
+      image: characters/rennald.png
