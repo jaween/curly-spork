@@ -12,7 +12,7 @@ const RESOURCES = {
 "assets/assets/characters/girian.png": "f8f4933a4196233438221c75324be864",
 "assets/assets/characters/rennald.png": "6a885d783706ac4bf5353c211309a5e9",
 "assets/assets/characters/zherrain.png": "dc37adfded2b1e3afbaf22ad8b885799",
-"assets/assets/scripts/chapter1.yaml": "3e44b101b322e61ebfe1351dd5749a57",
+"assets/assets/scripts/chapter1.yaml": "7592df69d0ad3b9f6bb07deaaa89d4a1",
 "assets/assets/scripts/info.yaml": "510737d6bf46b481db6bcfcf155ef135",
 "assets/assets/graphics/thought_bubble.png": "5ee8499e745ee24049ebfd6744273c2f",
 "assets/assets/graphics/dialog_border.png": "04daa8401dc046175e586187536e0a0c",
@@ -23,13 +23,13 @@ const RESOURCES = {
 "assets/AssetManifest.json": "b80474d5d0ac783c578de85716b8f5f7",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"index.html": "998bdabe3109c0a5a841f0afc205b442",
-"/": "998bdabe3109c0a5a841f0afc205b442",
+"index.html": "26d5927f1592cb62dd7a7d50b6fb2232",
+"/": "26d5927f1592cb62dd7a7d50b6fb2232",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "0904f3c029a0328e252d809496351064",
 "version.json": "76d12b9d19532b2aefa7a1d37926d900",
-"main.dart.js": "f51eb5d863256bb695215a24d4cd2980"
+"main.dart.js": "56518d557b450c3fa4d7a77ada2fa41a"
 };
 
 // The application shell files that are downloaded before a service worker can
