@@ -4,32 +4,35 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/NOTICES": "c3f1848f4358197edff216a48868ab31",
+"assets/NOTICES": "ad26670228aab4df1185c386fee53e6b",
 "assets/assets/backgrounds/little_oakdale.jpg": "291e875ee8d24e85db198c8ebf394657",
 "assets/assets/backgrounds/town_hall.jpg": "d89a5a59096b43e9e6692c0a22335d38",
-"assets/assets/music/unmerry_academy.ogg": "b7d385cbf28fb47898d1084ecd4a50b7",
+"assets/assets/music/unmerry_academy.ogg": "f7964b4d0c8f553be41714590707032a",
 "assets/assets/characters/narora.png": "02dd0f8fe90d8fec7857c62cf02d8eda",
 "assets/assets/characters/girian.png": "f8f4933a4196233438221c75324be864",
 "assets/assets/characters/rennald.png": "6a885d783706ac4bf5353c211309a5e9",
 "assets/assets/characters/zherrain.png": "dc37adfded2b1e3afbaf22ad8b885799",
-"assets/assets/scripts/chapter1.yaml": "7592df69d0ad3b9f6bb07deaaa89d4a1",
-"assets/assets/scripts/info.yaml": "510737d6bf46b481db6bcfcf155ef135",
+"assets/assets/scripts/chapter1.yaml": "6d3f2d75815965b9b35318bad5c35452",
+"assets/assets/scripts/info.yaml": "d0ce9eeef9e8576e9f08fec4f52783e2",
 "assets/assets/graphics/thought_bubble.png": "5ee8499e745ee24049ebfd6744273c2f",
 "assets/assets/graphics/dialog_border.png": "04daa8401dc046175e586187536e0a0c",
+"assets/assets/graphics/splash.jpg": "ed8fbba3cd882ac3e5cc23d006c6315f",
+"assets/assets/graphics/push_button.9.png": "38b1b73995206b047a279aeb433dcb32",
+"assets/assets/graphics/push_button_pressed.9.png": "385b4487cadee4aefdb27dd251fd1a79",
 "assets/assets/graphics/dialog_border2.png": "3dbf931ab381f44b709c50838adc1bcc",
 "assets/assets/sounds/bang.ogg": "822eaf33d652aff0b374fd0294d9fe57",
 "assets/assets/sounds/ding.ogg": "8f6d89948ea4119909f598c40530b506",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "b14fcf3ee94e3ace300b192e9e7c8c5d",
-"assets/AssetManifest.json": "b80474d5d0ac783c578de85716b8f5f7",
-"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/AssetManifest.json": "55b762b82f9a0b0361fd7d17f3fbae8d",
+"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"index.html": "26d5927f1592cb62dd7a7d50b6fb2232",
-"/": "26d5927f1592cb62dd7a7d50b6fb2232",
+"index.html": "57c4cf7a98a78546aa1ad88bc8bb3c87",
+"/": "57c4cf7a98a78546aa1ad88bc8bb3c87",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "0904f3c029a0328e252d809496351064",
 "version.json": "76d12b9d19532b2aefa7a1d37926d900",
-"main.dart.js": "56518d557b450c3fa4d7a77ada2fa41a"
+"main.dart.js": "d5e2bc9327030cc52728b72840426722"
 };
 
 // The application shell files that are downloaded before a service worker can
@@ -47,7 +50,7 @@ self.addEventListener("install", (event) => {
   return event.waitUntil(
     caches.open(TEMP).then((cache) => {
       return cache.addAll(
-        CORE.map((value) => new Request(value + '?revision=' + RESOURCES[value], {'cache': 'reload'})));
+        CORE.map((value) => new Request(value, {'cache': 'reload'})));
     })
   );
 });

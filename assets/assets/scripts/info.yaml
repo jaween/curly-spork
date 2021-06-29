@@ -1,18 +1,23 @@
 locations:
   - Little Oakdale:
-      image: backgrounds/little_oakdale.png
+      image: assets/backgrounds/little_oakdale.jpg
   - Town Hall:
-      image: backgrounds/town_hall.png
+      image: assets/backgrounds/town_hall.jpg
 characters: 
   - Narrator:
       image: ~
   - Girian:
-      image: characters/girian.png
+      image: assets/characters/girian.png
   - Zherrain:
-      image: characters/zherrain.png
+      image: assets/characters/zherrain.png
   - Narora:
-      image: characters/narora.png
+      image: assets/characters/narora.png
   - Unknown:
-      image: ~
+      image: assets/characters/narora.png
   - Rennald:
-      image: characters/rennald.png
+      image: assets/characters/rennald.png
+music:
+  - assets/music/unmerry_academy.ogg
+sounds:
+  - assets/sounds/bang.ogg
+  - assets/sounds/ding.ogg

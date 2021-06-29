@@ -22,13 +22,15 @@ Town Hall:
     type: thought
   - rennald: They must have elven ancestry, among other things.
   - unknown: Oh but she isn't just born of magic.
-  - zherrain: The hooded figure looked up at the ceiling in my general direction, unnerving me.
+  - narrator: The hooded figure looked up at the ceiling in my general direction, unnerving me.
+    type: thought
   - unknown: The Oracle has more information. The child is indeed of elven ancestry.
   - rennald: IMPOSSIBLE!
   - unknown: Very possible. But before long, as the prophecy spreads, more people will be after her. For example, the assassin now knows everything I just told you.
   - narrator: he said with a smirk.
     type: thought
-  - zherrain: The colour drained from Rennald’s face, visible even under the dim light of the candle.
+  - narrator: The colour drained from Rennald’s face, visible even under the dim light of the candle.
+    type: thought
   - rennald: The assassin? Zherrain?!
   - narrator: He spun around, scanning the room.
   - narrator: I usually easily go unnoticed. The fact that this man was privy to my presence proved that he is of magicka himself. I sighed and dropped from the beam, making Rennald leap three feet into the air.
