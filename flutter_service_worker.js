@@ -12,27 +12,25 @@ const RESOURCES = {
 "assets/assets/characters/girian.png": "f8f4933a4196233438221c75324be864",
 "assets/assets/characters/rennald.png": "6a885d783706ac4bf5353c211309a5e9",
 "assets/assets/characters/zherrain.png": "dc37adfded2b1e3afbaf22ad8b885799",
-"assets/assets/scripts/chapter1.yaml": "6d3f2d75815965b9b35318bad5c35452",
+"assets/assets/scripts/chapter1.yaml": "f97d964d07b46360ad561649c47eaf92",
 "assets/assets/scripts/info.yaml": "d0ce9eeef9e8576e9f08fec4f52783e2",
 "assets/assets/graphics/thought_bubble.png": "5ee8499e745ee24049ebfd6744273c2f",
 "assets/assets/graphics/dialog_border.png": "04daa8401dc046175e586187536e0a0c",
 "assets/assets/graphics/splash.jpg": "ed8fbba3cd882ac3e5cc23d006c6315f",
-"assets/assets/graphics/push_button.9.png": "38b1b73995206b047a279aeb433dcb32",
-"assets/assets/graphics/push_button_pressed.9.png": "385b4487cadee4aefdb27dd251fd1a79",
 "assets/assets/graphics/dialog_border2.png": "3dbf931ab381f44b709c50838adc1bcc",
 "assets/assets/sounds/bang.ogg": "822eaf33d652aff0b374fd0294d9fe57",
 "assets/assets/sounds/ding.ogg": "8f6d89948ea4119909f598c40530b506",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/AssetManifest.json": "55b762b82f9a0b0361fd7d17f3fbae8d",
+"assets/AssetManifest.json": "aa736e361e775c2f0121348b6823cf40",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"index.html": "57c4cf7a98a78546aa1ad88bc8bb3c87",
-"/": "57c4cf7a98a78546aa1ad88bc8bb3c87",
+"index.html": "a5e87342dc02af0c01833329f8466284",
+"/": "a5e87342dc02af0c01833329f8466284",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "0904f3c029a0328e252d809496351064",
 "version.json": "76d12b9d19532b2aefa7a1d37926d900",
-"main.dart.js": "d5e2bc9327030cc52728b72840426722"
+"main.dart.js": "6a46306cc446dd7820c5664ee0af1ee3"
 };
 
 // The application shell files that are downloaded before a service worker can
