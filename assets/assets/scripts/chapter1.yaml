@@ -1,5 +1,11 @@
 Little Oakdale:
-  - zherrain: I sat atop the craggy hill, looking down on the sleepy town as snow fell peacefully. The twinkling street lamps and soft light of the candles burning within windows of the cosy houses came in and out of focus. Dressed in all black to camouflage against the night, my keen eyes skimmed the streets of Little Oakdale carefully. My name is Zherrain, and I'm an assassin. Even though on this particular occasion I had been hired to use my skills for a very different purpose; to save a life rather than take it away. I was looking for a young girl, a child of a wealthy merchant, who'd been missing for just over 2 days. Time is of the essence when searching for a missing person, as I knew very well. Most people think it's impossible for someone to just simply disappear, but if you know what you're doing it's all too easy. The child, a girl called Ciara, stood out around these parts. Her father, a man known as Girian, had shown me a recent likeness portrait so I had something to go on. Her hair was spun gold and very long, down to her waist. Her skin was fair, a stark contrast to the tanned, olive tones that were common around the Obsidian Peninsula. But the most telling of her features were her eyes. One was green, like an emerald in the sun, the other a dark violet, a sign of the magick. Girian had told me that she was last seen in the fields on his property, tending to her favourite cow. Ciara didn't have any friends, so spent most of her time with the animals on her father's farm. Her mother Ziriam was a flamboyant woman, and was always travelling around the Peninsula styling the hair of the noble women. Ciara had one sibling, a younger brother named Cathal. Cathal was 7 years younger than her, only 5 years old. Girian had begged me to bring his daughter back before his wife was due home, which was in little over a week. He had pleaded with me, his face streaked with tears and eyes full of sadness. The child is highly likely still alive, and chances are that her captors are looking for a ransom. Either that, or she's being sold as a slave. I knew of a gang of people servicing the Upper Kingdoms, who had more questionable morals than those of the Peninsula. Ciara could be anywhere if that were the case, as the dealings of the outlaw gang known as The Ebben Circle, were highly complex. Thankfully my reputation had bought me a lot of respect with the townsfolk who would definitely cooperate with me. Chances of Ciara being in Little Oakdale were slim, but informants were everywhere. I planned to be on The Ebben Road before dawn, armed with information critical for finding the child. Finally, I saw who I was looking for. A hooded man walked down the cobblestone streets, hunched over and heading towards the town square. I knew him to be Rennald, a scrupulous man with allegedly strong ties to The Ebben Circle, most likely to keep his own hide out of trouble. He reached the Town Hall, looked around carefully, then entered the building. I waited ten seconds, before descending into the town. The Town Hall was locked of course, but I knew how to get through a locked door with extreme ease. I entered the hall silently.
+  - zherrain: I sat atop the craggy hill, looking down on the sleepy town as snow fell peacefully. The twinkling street lamps and soft light of the candles burning within windows of the cosy houses came in and out of focus. Dressed in all black to camouflage against the night, my keen eyes skimmed the streets of Little Oakdale carefully. My name is Zherrain, and I'm an assassin. Even though on this particular occasion I had been hired to use my skills for a very different purpose; to save a life rather than take it away. I was looking for a young girl, a child of a wealthy merchant, who'd been missing for just over 2 days. Time is of the essence when searching for a missing person, as I knew very well. Most people think it's impossible for someone to just simply disappear, but if you know what you're doing it's all too easy.
+    type: thought
+  - zherrain: The child, a girl called Ciara, stood out around these parts. Her father, a man known as Girian, had shown me a recent likeness portrait so I had something to go on. Her hair was spun gold and very long, down to her waist. Her skin was fair, a stark contrast to the tanned, olive tones that were common around the Obsidian Peninsula. But the most telling of her features were her eyes. One was green, like an emerald in the sun, the other a dark violet, a sign of the magick. Girian had told me that she was last seen in the fields on his property, tending to her favourite cow. Ciara didn't have any friends, so spent most of her time with the animals on her father's farm. Her mother Ziriam was a flamboyant woman, and was always travelling around the Peninsula styling the hair of the noble women. Ciara had one sibling, a younger brother named Cathal. Cathal was 7 years younger than her, only 5 years old. Girian had begged me to bring his daughter back before his wife was due home, which was in little over a week. He had pleaded with me, his face streaked with tears and eyes full of sadness.
+    type: thought
+    display_options:
+      asset: ciara
+  - zherrain: The child is highly likely still alive, and chances are that her captors are looking for a ransom. Either that, or she's being sold as a slave. I knew of a gang of people servicing the Upper Kingdoms, who had more questionable morals than those of the Peninsula. Ciara could be anywhere if that were the case, as the dealings of the outlaw gang known as The Ebben Circle, were highly complex. Thankfully my reputation had bought me a lot of respect with the townsfolk who would definitely cooperate with me. Chances of Ciara being in Little Oakdale were slim, but informants were everywhere. I planned to be on The Ebben Road before dawn, armed with information critical for finding the child. Finally, I saw who I was looking for. A hooded man walked down the cobblestone streets, hunched over and heading towards the town square. I knew him to be Rennald, a scrupulous man with allegedly strong ties to The Ebben Circle, most likely to keep his own hide out of trouble. He reached the Town Hall, looked around carefully, then entered the building. I waited ten seconds, before descending into the town. The Town Hall was locked of course, but I knew how to get through a locked door with extreme ease. I entered the hall silently.
     type: thought
 Town Hall:
   - narrator: The tall room was silent and dark, but for a soft glow underneath a door on the upper floor. I ascended the staircase and opened the door, which led into a kitchen. Rennald would be in a secret room, accessible at the back of the large kitchen, which gained one passage into the bowels of a castle. Little Oakdale was a minor town, but all towns on the Obsidian Peninsula had their own castle. Little Oakdale's was situated on a steep hill, far above the rest of the town. From the upper floors you can see the glistening Obsidian Ocean, a stunning view. The royal family was in disarray, even though the town seemed to operate just fine without their input, which was just as well as far as I was concerned. The floors creaked in multiple places, indicating that there was more than one person on this level. I moved quickly and silently around the kitchen, towards the back room. If Rennald wasn't alone, I'd like to see who he was liaising with. I climbed onto the strong ceiling beams, wanting to go unnoticed. Sometimes gaining true intel is easier if people don't know that you're there, and it is much more elegant than forcing it out of them. I maneuvered through a gap in the ceiling to enter the next room. I crept along the beam silently until two figures came into view. I strained to hear them as they spoke in low, hushed voices. Rennald was below conversing with a hooded figure of substantial height, someone I didn't recognise. He emanated a power I was not familiar with. Magic was becoming less and less common around here. I got as close to them as I dared and crouched down as low as I could.
@@ -7,23 +13,38 @@ Town Hall:
   - rennald: ... but why now? The girl's presence here has been common knowledge for YEARS. She's not any kind of threat. Girian, as big a fool as he is, has done a good job so far.
   - narrator: Rennald seemed exasperated, sweat glistening on his forehead despite the cold.
     type: thought
-  - unknown: That doesn't matter. Her powers are growing by the day. Soon enough she'll know how to use them.
+  - narora: That doesn't matter. Her powers are growing by the day. Soon enough she'll know how to use them.
+    display_options:
+      name: '???'
+      tint: true
   - rennald: Why does that matter?
   - narrator: The hooded figure sighed.
     type: thought
-  - unknown: Eon believes her to be not only of magical blood.
+  - narora: Eon believes her to be not only of magical blood.
+    display_options:
+      name: '???'
+      tint: true
   - narrator: Rennald's eyes widened. 
     type: thought
   - rennald: No. She can't be. The Oracle tells us the time of the next Aurfairene isn't for another thousand years. It's a mistake I tell you, the child is born of magicka and that's it! The Aurfairene must meet certain criteria.
   - narrator:  Rennald looked smug at his knowledge.
     type: thought
   - rennald: They must have elven ancestry, among other things.
-  - unknown: Oh but she isn't just born of magic.
+  - narora: Oh but she isn't just born of magic.
+    display_options:
+      name: '???'
+      tint: true
   - narrator: The hooded figure looked up at the ceiling in my general direction, unnerving me.
     type: thought
-  - unknown: The Oracle has more information. The child is indeed of elven ancestry.
+  - narora: The Oracle has more information. The child is indeed of elven ancestry.
+    display_options:
+      name: '???'
+      tint: true
   - rennald: IMPOSSIBLE!
-  - unknown: Very possible. But before long, as the prophecy spreads, more people will be after her. For example, the assassin now knows everything I just told you.
+  - narora: Very possible. But before long, as the prophecy spreads, more people will be after her. For example, the assassin now knows everything I just told you.
+    display_options:
+      name: '???'
+      tint: true
   - narrator: he said with a smirk.
     type: thought
   - narrator: The colour drained from Rennald’s face, visible even under the dim light of the candle.
@@ -36,7 +57,10 @@ Town Hall:
         goto: zherrain_stays_silent_on_hall_ceiling
       - choice: '*drop down*'
         goto: zherrain_drop_from_hall_ceiling
-  - unknown: I know you’re there, there’s no use hiding any longer
+  - narora: I know you’re there, there’s no use hiding any longer
+    display_options:
+      name: '???'
+      tint: true
     id: zherrain_stays_silent_on_hall_ceiling
   - narrator: I sighed and dropped from the beam, making Rennald leap three feet into the air.
     type: thought
@@ -47,13 +71,19 @@ Town Hall:
   - zherrain: Same thing as you by the sounds of it. I'm after the child, what do you know?
   - narrator: I laced my voice with persuasion magic, which seemed to be rebutted by the hooded figure. I frowned at him.
     type: thought
-  - unknown: Assassin, the child is none of your concern.
+  - narora: Assassin, the child is none of your concern.
+    display_options:
+      name: '???'
+      tint: true
   - narrator: Said the figure, who lowered his hood around his shoulders.
     type: thought
   - narrator: I studied his face, which was one I did not recognise.
     type: thought
   - narrator: He was young and handsome, his eyes were violet, and he had a scar running down the side of his face.
-  - unknown: I suggest you leave this business be, and get back to what you know.
+  - narora: I suggest you leave this business be, and get back to what you know.
+    display_options:
+      name: '???'
+      tint: true
   # CHOICE
   - zherrain: I was hired to complete a job, and I plan to see it through.
   - narrator: We glowered at each other, each sizing the other up.
@@ -67,10 +97,16 @@ Town Hall:
   - zherrain: I should be the one asking questions, not the other way around.
   - narrator: I hissed at him. Rennald rolled his eyes and turned away, muttering something about never liking me.
     type: thought
-  - unknown: We may actually have use for you and your skills, assassin. Seeing as you insist on being part of this.
+  - narora: We may actually have use for you and your skills, assassin. Seeing as you insist on being part of this.
+    display_options:
+      name: '???'
+      tint: true
   - narrator: The violet-eyed man stood taller.
     type: thought
-  - unknown: Were you hired by Girian the merchant?
+  - narora: Were you hired by Girian the merchant?
+    display_options:
+      name: '???'
+      tint: true
   - narrator: I raised my eyebrows, although I was not that surprised. This man seemed to be a learned one, skilled in magical arts. A sorcerer or perhaps a witch doctor, neither of which I thought much of despite being born of magic myself.
     type: thought
   - zherrain: I'll answer your questions, but first tell me this. Who are you?

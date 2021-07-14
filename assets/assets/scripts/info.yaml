@@ -6,8 +6,8 @@ locations:
 characters: 
   - Narrator:
       image: ~
-  - Girian:
-      image: assets/characters/girian.png
+  - Ciara:
+      image: assets/characters/ciara.png
   - Zherrain:
       image: assets/characters/zherrain.png
   - Narora:
