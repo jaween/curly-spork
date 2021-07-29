@@ -8,10 +8,10 @@ const RESOURCES = {
 "assets/assets/backgrounds/little_oakdale.jpg": "291e875ee8d24e85db198c8ebf394657",
 "assets/assets/backgrounds/town_hall.jpg": "b9576a7212a6d62e1eb609649bcab5bb",
 "assets/assets/music/unmerry_academy.ogg": "f7964b4d0c8f553be41714590707032a",
-"assets/assets/characters/ciara.png": "47bf2b26ad6e598d6d2c1574e906be68",
-"assets/assets/characters/narora.png": "c9c6bd92bb037d29138f142957aa071d",
-"assets/assets/characters/rennald.png": "08d3a9ead040f4256a67d07da809ff4d",
-"assets/assets/characters/zherrain.png": "6dba1caf03cba33112f7a4b2ee08a553",
+"assets/assets/characters/ciara.png": "94b1f1a0f1944edc09a0472cc5d52cb5",
+"assets/assets/characters/narora.png": "b0da9a968d1fbfcab827ed491b00f5cc",
+"assets/assets/characters/rennald.png": "78e73165bb70dcd1669fe0ffbce31c8a",
+"assets/assets/characters/zherrain.png": "b631d8416002fc3bb972ebde292e7b13",
 "assets/assets/scripts/chapter1.yaml": "6ffc4131cfcc1c0df6dac361d6c94cf5",
 "assets/assets/scripts/info.yaml": "9c440470961eb044588372861598ee28",
 "assets/assets/graphics/splash.jpg": "ed8fbba3cd882ac3e5cc23d006c6315f",
@@ -21,13 +21,13 @@ const RESOURCES = {
 "assets/AssetManifest.json": "f754506805aa18fe67dc7b53bc88b9f5",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "favicon.png": "cf4067aee9de7d01b0a9994caff8d707",
-"index.html": "4932d17008a79bcb88bf127f310960ac",
-"/": "4932d17008a79bcb88bf127f310960ac",
+"index.html": "a60217f2f8379a79657761171c0b791d",
+"/": "a60217f2f8379a79657761171c0b791d",
 "icons/Icon-192.png": "e5fbcccd89e779c6cdd68ffcb4e68974",
 "icons/Icon-512.png": "73bf86912b963d88f435ffc90b22f182",
 "manifest.json": "2fc985eca6d795fff4c00e17c455ddb3",
 "version.json": "76d12b9d19532b2aefa7a1d37926d900",
-"main.dart.js": "32f066da5a4f3ae0924ef451761e031e"
+"main.dart.js": "0928f559d658492f02ed47766b28f169"
 };
 
 // The application shell files that are downloaded before a service worker can
