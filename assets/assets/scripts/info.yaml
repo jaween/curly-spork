@@ -17,7 +17,7 @@ characters:
   - Rennald:
       image: assets/characters/rennald.png
 music:
-  - assets/music/unmerry_academy.ogg
+  - assets/music/unmerry_academy.mp3
 sounds:
   - assets/sounds/bang.ogg
   - assets/sounds/ding.ogg
